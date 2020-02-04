@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1448786057630421844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926772653038669769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec380a98bc0c85a4cb4deb561b8d2c6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &8159677465211375814
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7746678342885154575, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_Name
+      value: NaveAzul Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154575, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_TagString
+      value: NaveAzul
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154563, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.175481
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154563, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.3538096
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154563, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154563, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154563, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154563, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154563, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154563, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154563, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154563, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154563, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154562, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154562, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154572, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: velocidadMovimiento
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154572, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: velocidadRotacion
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154572, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: distanciaMinimaAtaque
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746678342885154572, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: distanciaMaximaAtaque
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6617941030854567133, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: vidaMaxima
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6617941030854567133, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: vidaActual
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8134764331395278795, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: m_TagString
+      value: NaveAzul
+      objectReference: {fileID: 0}
+    - target: {fileID: 7896506067286741334, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+        type: 3}
+      propertyPath: frecuenciaEntreDisparo
+      value: 0.43
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 834780cb80b62104b9b9c6db1ae22f9f, type: 3}
+--- !u!1 &1926772653038669769 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7746678342885154575, guid: 834780cb80b62104b9b9c6db1ae22f9f,
+    type: 3}
+  m_PrefabInstance: {fileID: 8159677465211375814}
+  m_PrefabAsset: {fileID: 0}
